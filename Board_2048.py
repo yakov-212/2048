@@ -168,6 +168,7 @@ def main(obj):
             print("Congrats on winning here's a cookie 🍪")
         print(f"you got a score of {score}!")
         play_again = input("Press ENTER to quit type anything else to play a new game\nENTER --> ")
+        play = True
 
         
 
